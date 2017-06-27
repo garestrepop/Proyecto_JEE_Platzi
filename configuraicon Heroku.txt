@@ -1,0 +1,16 @@
+Deploy:
+https://garpprofesoresplatzi.herokuapp.com
+
+Git:
+https://git.heroku.com/garpprofesoresplatzi.git
+
+BD:
+heroku_062945cc66edf79	
+
+Username:	b9d78692232bc8
+Password:	8177e579 (Reset)
+Database:   heroku_062945cc66edf79 
+Host: us-cdbr-iron-east-03.cleardb.net
+
+Heroku config (Cadena de Conexión):
+mysql://b9d78692232bc8:8177e579@us-cdbr-iron-east-03.cleardb.net/heroku_062945cc66edf79?reconnect=true
